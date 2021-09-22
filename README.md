@@ -2,7 +2,8 @@
 
 ## Симуляторы [ assembler and runtime simulator ]
 * [**Jupiter**](https://github.com/andrescv/Jupiter) - симулятор для изучения ассемблера RISC-V.
-* [**Ripes**](https://github.com/mortbopet/Ripes) - графически симулятор для изучения ассемблера RISC-V, есть возможность программирования на языке С, потактовой симуляции программы с иллюстрацией обновления каждой стадии конвейера. Так же добавлен эмулятор cache памяти с настройкой архитектуры кэша, политик замещения. 
+* [**venus**](https://www.kvakil.me/venus/) - онлайн симулятор для изучения ассемблера RISC-V.
+* [**Ripes**](https://github.com/mortbopet/Ripes) - графически симулятор для изучения ассемблера RISC-V, есть возможность программирования на языке С, потактовой симуляции программы с иллюстрацией обновления каждой стадии конвейера. Так же добавлен эмулятор cache памяти с настройкой архитектуры кэша, политик замещения. Если нет желания в ручную устанавливать [toolchain RISC-V](https://github.com/riscv-collab/riscv-gnu-toolchain), то можно скачать prebuilt toolchains c сайта [SiFive.](https://www.sifive.com/software)
 * [**RARS RISC-V Assembler and Runtime Simulator**](https://github.com/TheThirdOne/rars) - переиздание симулятора [MARS](http://courses.missouristate.edu/kenvollmar/mars/) для архитектуры RISC-V.
 
 ## Opensource ядра на базе RISC-V
