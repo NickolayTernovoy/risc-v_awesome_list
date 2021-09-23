@@ -11,8 +11,12 @@
 * [**picorv32**](https://github.com/cliffordwolf/picorv32) - самое популярное ядро на базе RISC-V. Были выпущены ASIC с применением данного soft-core. picorv32 применяется в базовом проекте [Caravel](https://github.com/efabless/caravel) для выпуска чипов на базе [skywater](https://skywater-pdk.readthedocs.io/en/latest/).  Так же описана процедура установки компилятора RISC-V. Читабельные и хорошо оформленные Makefile и Linker Script.
 * [**scr1**](https://github.com/syntacore/scr1) - младшее ядро модельного ряда [Syntacore](https://syntacore.com/page/products/processor-ip/scr1). Ядро регулярно обновляется и поддерживается разработчиками. Есть [вебинар](https://youtu.be/OxDkCw3BdCQ) с примером имплементации scr1 на базе отладочной платы [Arty.](https://digilent.com/arty-a7-artix-7-fpga-development-board/)
 * [**SERV**](https://github.com/olofk/serv) - самое маленькое soft-core ядро. Реализовано по принципу bit-serial.
+* [**VexRiscv**](https://github.com/SpinalHDL/VexRiscv) - самое поплуярно ядро написанное на [SpinalHDL.](https://github.com/SpinalHDL/SpinalHDL) На VexRiscv есть возможность запустить Linux, Zephyr.  
+* [**RISC-V CORE LIST**](https://riscv.org/exchange/cores-socs/) - список RISC-V Cores & SoCs.
 
-* [**RISC-V CORE LIST**](https://riscv.org/exchange/cores-socs/) -  список RISC-V Cores & SoCs.
+## Верификационное окружение
+* [riscv-dv](https://github.com/google/riscv-dv) - RISCV-DV это opensource инструмент для верификации процессоров на базе архитектуры RISC-V. Генерирует псевдорандомные последовательности инструкций. Разработан в базисе UVM/SV.
+* [MicroTESK](http://www.microtesk.org/download/microtesk-riscv/) - MicroTESK: среда генерации тестовых программ для микропроцессоров. Позволяет автоматически конструировать генераторы тестовых программ для целевых архитектур микропроцессоров на основе их формальных спецификаций.
 
 ## Лекционные материалы
 * [**Архитектура процессорных систем**](https://www.youtube.com/c/%D0%90%D0%9F%D0%A1%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2) - курс от института МПСУ НИУ МИЭТ посвященный основам архитектуры процессорных систем. В качестве базовой архитектуры рассматривается RISC-V. В дополнительных материалах к курсу можно найти лабораторные работы по проектированию однотактного процессора с набором команда RV32I. 
