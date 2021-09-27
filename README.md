@@ -21,7 +21,7 @@
 ## Лекционные материалы
 * [**Архитектура процессорных систем**](https://www.youtube.com/c/%D0%90%D0%9F%D0%A1%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2) - курс от института МПСУ НИУ МИЭТ посвященный основам архитектуры процессорных систем. В качестве базовой архитектуры рассматривается RISC-V. В дополнительных материалах к курсу можно найти лабораторные работы по проектированию однотактного процессора с набором команда RV32I. 
 * [**Лекции от MIT курс 6.004**](https://www.youtube.com/channel/UC1DcxXg6GkAcp2zk2w7U6qQ) - лекции от преподавателей Массачусетского технологического института. Лекционные заметки можете найти [тут.](https://computationstructures.org/lectures/info/info.html)
-
+* [**Computer Architecture **](https://safari.ethz.ch/architecture/doku.php) - лекции от преподавателей ETH Zürich. Помимо лекционных материалов на странице курса представлены: лабораторные работы, дополнительные материалы, вопросы к экзамену. 
 ## Литература 
 * [**The RISC-V Reader: An Open Architecture Atlas**](http://riscvbook.com/) - книга от разработчиков архитектуры RISC-V. В книге представлены разъяснения к каждому из существующих (на момент выпуска книги) наборов команд.
 * [**Computer Organization and Design The Hardware/Software Interface: RISC-V Edition**](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf) - классический учебник от ветеранов индустрии процессоростроения Девида Паттерсона и Джона Хэннеси. 
